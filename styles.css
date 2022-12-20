@@ -1,0 +1,24 @@
+.horror {
+    text-align: center;
+    background-color: #BA94D1;
+    padding: 40px;
+    color:#432C7A;
+}
+
+.action {
+    text-align: center;
+    background-color: #8D9EFF;
+    padding: 40px;
+    color:darkblue;
+}
+
+.comedy {
+    text-align: center;
+    background-color: #FF9F9F;
+    padding: 40px;
+    color:#790252;
+}
+
+.recommend {
+    padding: 10px;
+}
